@@ -6,6 +6,7 @@
 
 
 # A new approach to train deep neural networks : synthetic gadients 
+ * Synthetic Gradients - Decoupling Layers of a Neural Nets by Anuj Gupta : http://bit.ly/2iA8v4T
  * "Synthetic Gradients Explained" by Siraj Raval :https://youtu.be/qirjknNY1zo
  * Decoupled Neural Interfaces Using Synthetic Gradients by DeepMind: http://bit.ly/2hPz6ef
  
