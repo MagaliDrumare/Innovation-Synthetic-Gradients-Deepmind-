@@ -7,7 +7,7 @@
 
 # A new approach to train deep neural networks : synthetic gadients 
  * "Synthetic Gradients Explained" by Siraj Raval :https://youtu.be/qirjknNY1zo
- * Decoupled Neural Interfaces Using Synthetic Gradients: http://bit.ly/2hPz6ef
+ * Decoupled Neural Interfaces Using Synthetic Gradients by DeepMind: http://bit.ly/2hPz6ef
  
  
  
